@@ -29,7 +29,7 @@
 
 .bg-grey-dark{ background-color:#374659;}
 .list-style1 li{
-padding: 0px 0px 15px 50px;
+padding: 0px 0px 10px 50px;
 background: url("../css/checkbox.png") 0 0 no-repeat;
 list-style:none;
 font-weight: normal;
